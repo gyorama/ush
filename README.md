@@ -1,4 +1,5 @@
-# Hardly Usable SHell
+# Usable SHell
 
-A shell project I made in less than 1 day.
-Not many features, but adding them soon.
+A shell based on [Hardly Usable Shell](https://github.com/gyorama/hush) - another project I made that was sorta wonky.
+
+This rewrite will (probably) allow for more cool stuff to be added.
