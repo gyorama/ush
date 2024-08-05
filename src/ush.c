@@ -1,7 +1,6 @@
 #include <unistd.h>
 #include <fcntl.h>
 #include "ush.h"
-#include <signal.h>
 #include <termios.h>
 
 // Char-by-char reading
